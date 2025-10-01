@@ -2,15 +2,6 @@
 
 Week 1 - Switch - Convert GPA to Percentage Range
 
-
-
-
-
-
-    
-       
-   
-
         
     import java.util.Scanner;
     
