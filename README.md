@@ -7,6 +7,8 @@ Assignments / Projects
 
 Week 1 - Switch - Convert GPA to Percentage Range*/
 
+
+
 import java.util.Scanner;
 
 public class Main {
