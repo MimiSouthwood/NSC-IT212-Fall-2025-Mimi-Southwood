@@ -1,6 +1,6 @@
 # NSC IT212-Fall 2025-Mimi Southwood
 
-/*Week 1 - Switch - Convert GPA to Percentage Range*/
+Week 1 - Switch - Convert GPA to Percentage Range
 
 
 
