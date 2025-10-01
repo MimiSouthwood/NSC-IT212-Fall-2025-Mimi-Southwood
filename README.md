@@ -1,16 +1,19 @@
-/*# NSC IT212-Fall 2025-Mimi Southwood
+# NSC IT212-Fall 2025-Mimi Southwood
 
-Week 1 - Switch - Convert GPA to Percentage Range*/
-
-
+/*Week 1 - Switch - Convert GPA to Percentage Range*/
 
 
 
-import java.util.Scanner;
 
-   public class Main {
+
+
     
-       public static void main(String[] args) {
+       
+   import java.util.Scanner;
+
+        public class Main {
+   
+      public static void main(String[] args) {
 
             Scanner input = new Scanner(System.in);
         
